@@ -24,7 +24,9 @@ Related paper: "SoK: Certified Robustness for Deep Neural Networks".
 
 
 
-[1] Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks. https://arxiv.org/abs/1702.01135.[2] Towards Fast Computation of Certified Robustness for ReLU Networks. http://proceedings.mlr.press/v80/weng18a.html.
+[1] Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks. https://arxiv.org/abs/1702.01135.
+
+[2] Towards Fast Computation of Certified Robustness for ReLU Networks. http://proceedings.mlr.press/v80/weng18a.html.
 
 
 
